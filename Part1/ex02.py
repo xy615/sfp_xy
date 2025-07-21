@@ -1,0 +1,2 @@
+text = "Bye"
+print(text)
